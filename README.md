@@ -1,5 +1,5 @@
 # BICAN Specimen Portal Metadata
-This repository contains metadata that has been directly created first hand during the course of the implementation of BICAN specimen portal using an agile development style. This set of metadata will be updated and released periodically, with an expected expanding scopes that may encompass donor info, brain specimen, brain slabs, tissue structure, library, and sequencing, as well as from different developmental stages of difference species.
+This repository contains metadata that has been directly created first hand during the course of the design, rapid-prototyping, portal-driven requirement elicitation, testing, and production-scale implementation of BICAN specimen portal and sequencing portal using an agile development style. This set of metadata will be updated and released periodically, with an expected expanding scopes that may encompass donor info, brain specimen, brain slabs, tissue structure, library, and sequencing, as well as from different developmental stages of difference species.
 
 The BRAIN Initiative Cell Atlas Network (BICAN) intends to adopt scalable technology platforms and streamlined sampling strategies and assay cascade to create comprehensive and highly granular brain cell atlases in human, non-human primates, mouse, and other species.
 
