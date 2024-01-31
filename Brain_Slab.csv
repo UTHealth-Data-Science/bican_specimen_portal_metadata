@@ -1,7 +1,7 @@
-variable_name,name,value_type,minimum,maximum,numeric_type,unit,options (format: code1/#/label1/#/description1|code2/#/label2/#/description2)|...
-brain_subdivision,Brain Subdivision,categorical,,,,,1/#/cerebrum/#/|2/#/cerebellum/#/|3/#/brainstem/#/
-slab_hemisphere,Slab Hemisphere,categorical,,,,,1/#/left/#/|2/#/right/#/
-local_slab_id,Local Slab ID,text,,,,,
-thickness,Thickness,numeric,0,100,decimal,mm,
-visiable_slab_face,Visible Slab Face,categorical,,,,,1/#/anterior/#/|2/#/posterior/#/|3/#/dorsal/#/|4/#/ventral/#/|5/#/left/#/|6/#/right/#/|6/#/medial/#/|7/#/lateral/#/|8/#/rostral/#/|9/#/cadual/#/
-study_id,NHash Slab ID,text,,,,,
+variable_name,variable_name_in_database,bican_uuid,short_name,full_name,value_type,parent_id,parent_name,resource_category,parent_id,min,max,numeric_type,step,unit,dependent_name,options
+,,,Slab,Slab,,,,,,,,,,,,
+local_slab_id,local_slab_id,,Local Slab ID,Local Slab ID,text,,Slab,Slab,,,,,,,,
+slab_nhash_id,study_id,,Slab NHash ID,NHash Slab ID,text,,Slab,Slab,,,,,,,,
+width,width,,Wdith,Wdith,numeric,,Slab,Slab,,,,,,,,
+height,height,,Height,Height,numeric,,Slab,Slab,,,,,,,,
+pixels_per_mm,pixels_per_mm,,Pixels per mm,Pixels per mm,numeric,,Slab,Slab,,,,,,,,

@@ -1,0 +1,6 @@
+variable_name,variable_name_in_database,bican_uuid,short_name,full_name,value_type,parent_id,parent_name,resource_category,parent_id,min,max,numeric_type,step,unit,dependent_name,options
+,,,Library Package,Library Package,,,,,,,,,,,,
+library_package_local_name,name,,Library Package Local Name / Identifier,Library Package Local Name / Identifier,text,,Library Package,Library Package,,,,,,,,
+sequencing_center_id,sequencing_center_id,,ID of the target sequencing center,ID Of The Target Sequencing Center,categorical,,Library Package,Library Package,,,,,,,,1/#/BROAD/#/|3/#/NYGC/#/
+library_package_submisson_date,shipping_date,,Library package submission date,Library package submission date,date,,Library Package,Library Package,,,,,,,,
+library_pool_ids,library_pool_codes,,NHash IDs of library pools in this package,Nhash IDs Of Library Pools In This Package,text,,Library Package,Library Package,,,,,,,,

@@ -1,0 +1,12 @@
+variable_name,variable_name_in_database,bican_uuid,short_name,full_name,value_type,parent_id,parent_name,resource_category,parent_id,min,max,numeric_type,step,unit,dependent_name,options
+,,,Amplified cDNA,Amplified cDNA,,,,,,,,,,,,
+amplified_cdna_local_name,local_name,e2606a11-114e-472f-9e05-33f9b6fc3089,cDNA Local Name / Identifier,cDNA Local Name / Identifier,text,,Amplified cDNA,Amplified cDNA,,,,,,,,
+amplified_cdna_nhash_id,study_id,,Amplified cDNA NHash ID,Amplified cDNA NHash ID,text,,Amplified cDNA,Amplified cDNA,,,,,,,,
+project_identifier,project_id,,Project,Project,text,,Amplified cDNA,Amplified cDNA,,,,,,,,
+amplified_cdna_preparation_date,preparation_date,6cc333e7-9b98-497f-b7b1-eae904db2400,Amplified cDNA preparation date,Amplified cDNA preparation date,date,,Amplified cDNA,Amplified cDNA,,,,,,,,
+amplified_cdna_amplified_quantity_ng,amplified_cdna_amplified_quantity_ng,0db79d05-8612-4896-b9d3-eb1558841449,amplified cDNA amplified quantity ng,amplified cDNA amplified quantity ng,numeric,,Amplified cDNA,Amplified cDNA,,0,,float,,,,
+amplified_cdna_pcr_cycles,amplified_cdna_pcr_cycles,3827634c-3f8f-4760-b358-86ce4b030238,amplified cDNA PCR cycles,amplified cDNA PCR cycles,numeric,,Amplified cDNA,Amplified cDNA,,0,,integer,,,,
+amplified_cdna_rna_amplification_pass_fail,amplified_cdna_rna_amplification_pass_fail,bc62bdb2-7dc8-4404-bb84-ce0bbcae59e5,amplified cDNA RNA amplification pass-fail,amplified cDNA RNA amplification pass-fail,categorical,,Amplified cDNA,Amplified cDNA,,,,,,,,Pass/#/The RNA amplification passed the QA/QC/#/|Fail/#/The RNA amplification failed the QA/QC/#/|Low QC/#/The RNA amplification low passed the QA/QC/#/|Not evaluated/#/Library Prep not evaluated for QA/QC/#/
+amplified_cdna_percent_cdna_longer_than_400bp,amplified_cdna_percent_cdna_longer_than_400bp,8d150467-f69e-461c-b54c-bcfd22f581e5,amplified cDNA percent cDNA longer than 400bp,amplified cDNA percent cDNA longer than 400bp,numeric,,Amplified cDNA,Amplified cDNA,,0,,float,,,,
+cdna_amplification_set,cdna_amplification_set,42e98a88-50b3-4ea2-871b-2142f6a0dfdd,cDNA amplification set,cDNA amplification set,text,,Amplified cDNA,Amplified cDNA,,,,,,,,
+barcoded_cell_sample_id,cell_sample_id,,Upstream barcoded cell sample database id,Upstream barcoded cell sample database id,text,,Amplified cDNA,Amplified cDNA,,,,,,,,
