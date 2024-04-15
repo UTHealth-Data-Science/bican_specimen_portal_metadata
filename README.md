@@ -1,12 +1,7 @@
-# BICAN Specimen Portal Metadata
-This repository contains metadata that has been directly created first hand during the course of the design, rapid-prototyping, portal-driven requirement elicitation, testing, and production-scale implementation of BICAN specimen portal and sequencing portal using an agile development style. This set of metadata will be updated and released periodically, with an expected expanding scopes that may encompass donor info, brain specimen, brain slabs, tissue structure, library, and sequencing, as well as from different developmental stages of difference species.
+This repository is no longer managed. You may access the current metadata directly from NIMP using the Terminology Browser.
 
-The BRAIN Initiative Cell Atlas Network (BICAN) intends to adopt scalable technology platforms and streamlined sampling strategies and assay cascade to create comprehensive and highly granular brain cell atlases in human, non-human primates, mouse, and other species.
+Once you login to NIMP, the Terminology Browser can be accessed from the top-level menu item “Resource Explorer.” The metadata is displayed in a table as well as a tree structure. Metadata can be searched from the search boxes provided in both the interfaces. In addition, metadata can be downloaded from the "Export to CSV" button in the Table view.
 
-The Coordinating Unit for Biostatistics, Informatics, and Engagement (CUBIE) is to (i) enable the exploration of large-scale brain cell atlas data and knowledge, and inspire research in brain function and disorders; and (ii) ensure research rigor and data reproducibility by making the data Findable, Accessible, Interoperable, and Reusable (FAIR), and the process transparent.
-
-Credits: the metadata released here is developed through the collaboration of GQGroup from UTHealth with domain experts through individual and BICAN working group settings and task force settings. Leaders of such working groups and task forces include but are not limited to Drs. Ed Lein, Dirk Keene, and Lydia Ng. Addtional contributions from the National Neurobiobank are included in the metadata release. 
-
-This effort is supported as a part of NIH award U24MH130988 (Zhang contact PI) for the BRAIN Initiative Cell Atlas Network.
+For further information on how to use the terminology browser, please refer the NIMP user guide at: https://docs.google.com/document/d/1Ll_pbPXPak46cb8VNKX7osnF2LRfW6o5/edit#heading=h.3c9z6hx
 
 
