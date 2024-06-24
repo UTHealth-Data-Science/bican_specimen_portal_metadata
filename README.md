@@ -9,8 +9,13 @@ Credits: the metadata released here is developed through the collaboration of GQ
 
 This effort is supported as a part of NIH award U24MH130988 (Zhang contact PI) for the BRAIN Initiative Cell Atlas Network.
 
+## Terminology Browser in NIMP
 The users may also view and download the current metadata directly from NIMP using its Terminology Browser functionality. After login to NIMP, the Terminology Browser can be accessed from the top-level menu item “Resource Explorer.” The metadata is displayed in a table as well as a tree structure, and the value sets can also be browsed seperately.
 
 For further information on how to use the terminology browser, please refer the NIMP user guide at: https://docs.google.com/document/d/13Kf_Ieag2viy5JOn5hDo82awuqbuulti/edit?usp=drive_link&ouid=100520104561635256720&rtpof=true&sd=true
+
+## Information about valuesets
+
+Value sets for the fields "library_r1_r2_index" and "structure" can be found in the files "r1_r2_index_value_set.txt" and "terminology.csv" respectively.
 
 
