@@ -16,6 +16,12 @@ For further information on how to use the terminology browser, please refer the 
 
 ## Information about valuesets
 
-Value sets for the fields "library_r1_r2_index" and "structure" can be found in the files "r1_r2_index_value_set.txt" and "terminology.csv" respectively.
+Value sets for some fields are provided in seperate files as follows since they are longer. 
+
+"library_r1_r2_index" -->  r1_r2_index_value_set.txt
+
+"structure" --> tissue_sample_structure_valueset_file.csv
+
+"patched_cell_structure" --> tissue_sample_structure_valueset_file.csv
 
 
