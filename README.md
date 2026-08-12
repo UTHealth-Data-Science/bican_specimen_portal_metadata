@@ -18,10 +18,12 @@ For further information on how to use the terminology browser, please refer the 
 
 Value sets for some fields are provided in seperate files as follows since they are longer. 
 
-"library_r1_r2_index" -->  r1_r2_index_value_set.txt
+"library_r1_r2_index" -->  library_r1_r2_index_value_set.csv
 
-"structure" --> tissue_sample_structure_valueset_file.csv
+"structure" --> structure_value_set.csv
 
-"patched_cell_structure" --> tissue_sample_structure_valueset_file.csv
+"patched_cell_structure" --> patched_cell_structure_value_set.csv
+
+"tissue_structure_acronym" --> tissue_structure_acronym_value_set.csv
 
 
